@@ -1,17 +1,10 @@
-# Getting Started with Create React App
+# About Shopping cart Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Shopping cart project contains an application which have a list of products available in the shopping site. You can view the product detail of each product on separate page. This project is created using React, redux, semantic-ui and react-router. 
 
-Shopping cart project contains an application which have a list of products available in the shopping site. You can view the product detail of each product on separate page. Currently this project is under development. This project is created using React, redux, semantic-ui and react-router. 
 
-## Available Scripts
+# Run project on local
+Use `npm start` to run the project on the local. It will run the app in the development mode on localhost.
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Enter below URL in browser to see the project.
+http://localhost:3000
